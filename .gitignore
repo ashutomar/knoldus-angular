@@ -1,0 +1,14 @@
+# Created by .ignore support plugin (hsz.mobi)
+# Angular
+node_modules
+bower_components
+dist
+coverage
+typings
+npm-debug.log
+npm-debug.log
+temp.gulpfile.js
+# intellij
+.idea/
+
+# Linux
